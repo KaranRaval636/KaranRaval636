@@ -29,7 +29,7 @@
 
 ### 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,react,nextjs,nodejs,express,mongodb,mysql,php,python,java,cpp,dotnet,git,figma,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,react,nextjs,nodejs,express,mongodb,mysql,php,python,java,cpp,dotnet,git,figma,firebase,go" />
 </p>
 
 ---
